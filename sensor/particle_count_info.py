@@ -19,7 +19,7 @@ class ParticleData(HouseInfo):
 
     def get_data_concentrations(self, data):
         particulate = {"good": 0, "moderate": 0, "bad": 0}
-        for rec in data:
-            
-
-        return particulate
+        # for rec in data:
+        #
+        #
+        # return particulate
